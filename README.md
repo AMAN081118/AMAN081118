@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMAN081118
-- 👀 I’m interested in Quantum Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Quantum Computing,
+- 🌱 I’m currently learning Qiskit
   
 
 <!---
