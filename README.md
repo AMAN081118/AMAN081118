@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AMAN081118
-- 👀 I’m interested in Quantum Computing,
-- 🌱 I’m currently learning Qiskit
+- 👋 Hi, I’m Aman
+- 👀 I do Software Developemnt,
+- 🌱 I’m currently learning AI/ML
   
 
 <!---
